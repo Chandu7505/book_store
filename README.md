@@ -32,7 +32,7 @@ Frontend is a simple *HTML + JavaScript* app to interact with the API.
 
 ## Installation & Setup Guide
 ```
-git clone https://github.com/your-username/bookstore-api.git
+git clone https://github.com/Chandu7505/book_store.git
 ```
 - Or just "Download ZIP"
 
